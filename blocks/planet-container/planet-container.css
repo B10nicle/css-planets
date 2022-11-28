@@ -1,0 +1,15 @@
+.planet-container {
+  width: 60px;
+  height: 60px;
+  animation: correct 12s infinite linear;
+  position: absolute;
+}
+
+@keyframes correct {
+  0% {
+    transform: rotateZ(360deg);
+  }
+  100% {
+    transform: rotateZ(0deg);
+  }
+}

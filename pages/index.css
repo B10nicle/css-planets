@@ -1,0 +1,28 @@
+@import url(../vendor/normalize.css);
+@import url(../blocks/root/root.css);
+
+/* planets-container */
+@import url(../blocks/planets-container/planets-container.css);
+
+/* planet-index */
+@import url(../blocks/planet-index/planet-index.css);
+@import url(../blocks/planet-index/__first-planet/planet-index__first-planet.css);
+@import url(../blocks/planet-index/__second-planet/planet-index__second-planet.css);
+@import url(../blocks/planet-index/__third-planet/planet-index__third-planet.css);
+
+/* sun */
+@import url(../blocks/sun/sun.css);
+
+/* planet */
+@import url(../blocks/planet/planet.css);
+@import url(../blocks/planet/__first/planet__first.css);
+@import url(../blocks/planet/__second/planet__second.css);
+@import url(../blocks/planet/__third/planet__third.css);
+
+/* route */
+@import url(../blocks/route/route.css);
+
+/* planet-container */
+@import url(../blocks/planet-container/planet-container.css);
+@import url(../blocks/planet-container/__second-planet/planet-container__second-planet.css);
+@import url(../blocks/planet-container/__third-planet/planet-container__third-planet.css);

@@ -1,0 +1,21 @@
+.planet-index__second-planet {
+  animation: hideSecondPlanet 12s infinite;
+}
+
+@keyframes hideSecondPlanet {
+  0% {
+    z-index: -999;
+    transform: scale(0.95);
+  }
+  50% {
+    z-index: 999;
+    transform: scale(1.1);
+  }
+  90% {
+    transform: scale(0.9);
+  }
+  100% {
+    z-index: -999;
+    transform: scale(0.95);
+  }
+}
