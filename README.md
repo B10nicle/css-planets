@@ -1,6 +1,6 @@
 ## CSS Planets
 
-Thank you Ania for this awesome tutorial!
+Thank you Ania for this awesome course!
 
 Link to the project: https://www.youtube.com/watch?v=6M-rZIukXy0
 
